@@ -45,6 +45,7 @@ gcc restaurant_billing_system.c -o restaurant_billing_system
 
 <img width="540" height="537" alt="image" src="https://github.com/user-attachments/assets/90238ed3-8dcc-4cb6-87d5-78802098f795" />
 
+
 *Important Notes or Assumptions
 
 1.Customer Name Input: The program only reads the first word of the customer name (due to scanf("%49s", customerName);). Spaces in the name will terminate the input.
